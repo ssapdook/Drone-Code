@@ -1,0 +1,157 @@
+[NAMES]
+1\name=SDK \xbaa8\xb4dc \xc9c4\xc785
+2\name=up 100
+size=10
+3\name=\xc774\xb959
+4\name=\xcc29\xb959
+5\name=\xd68c\xc804
+6\name=\xb4a4\xb85c
+7\name=foseja
+8\name=\xc55e\xc73c\xb85c
+9\name=\xc67c\xcabd
+10\name=\xc624\xb978\xcabd
+11\name=SMTP Gmail
+12\name=POP3 Yahoo
+13\name=NTP query
+14\name=HTTPS packetsender.com
+15\name=HTTP example.com
+16\name=HTTP 138.197.192.84
+17\name=FTP debian.org
+18\name=DNS example.com
+19\name=DNS dannagle.com
+
+[SDK%20%UBAA8%UB4DC%20%UC9C4%UC785]
+name=SDK \xbaa8\xb4dc \xc9c4\xc785
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=63 6f 6d 6d 61 6e 64
+requestPath=
+timestamp="\xc218, 15 9 2021 11:25:44"
+
+[up%20100]
+name=up 100
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=75 70 20 31 30 30
+requestPath=
+timestamp="\xc218, 15 9 2021 11:27:55"
+
+[%UC774%UB959]
+name=\xc774\xb959
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=74 61 6b 65 6f 66 66
+requestPath=
+timestamp="\xc218, 15 9 2021 11:31:04"
+
+[%UCC29%UB959]
+name=\xcc29\xb959
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=6c 61 6e 64
+requestPath=
+timestamp="\xc218, 15 9 2021 11:31:52"
+
+[%UB4A4%UB85C]
+name=\xb4a4\xb85c
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=62 61 63 6b 20 35 30
+requestPath=
+timestamp="\xc218, 15 9 2021 11:37:16"
+
+[%UD68C%UC804]
+name=\xd68c\xc804
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=63 77 20 33 30
+requestPath=
+timestamp="\xc218, 15 9 2021 11:36:14"
+
+[foseja]
+name=foseja
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=67 6f 20 78 3d 35 20 79 3d 20 33 20 73 70 65 65 64 20 3d 31 30
+requestPath=
+timestamp="\xc218, 15 9 2021 11:38:32"
+
+[%UC55E%UC73C%UB85C]
+name=\xc55e\xc73c\xb85c
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=66 6f 72 77 61 72 64 20 33 30
+requestPath=
+timestamp="\xc218, 15 9 2021 11:39:10"
+
+[%UC67C%UCABD]
+name=\xc67c\xcabd
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=6c 65 66 74 20 35 30
+requestPath=
+timestamp="\xc218, 15 9 2021 11:39:59"
+
+[%UC624%UB978%UCABD]
+name=\xc624\xb978\xcabd
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=72 69 67 68 74 20 35 30
+requestPath=
+timestamp="\xc218, 15 9 2021 11:51:01"
+
+
+How to use it 
+proxy to UDD
+Ip setting
+check the command
