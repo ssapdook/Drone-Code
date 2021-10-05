@@ -1,0 +1,216 @@
+[NAMES]
+1\name=foseja
+2\name=go x
+size=15
+3\name=SDK \xbaa8\xb4dc \xc9c4\xc785
+4\name=up 100
+5\name=\xb4a4\xb85c
+6\name=\xbca0\xd130\xb9ac \xd655\xc778
+7\name=\xc55e\xc73c\xb85c
+8\name=\xc624\xb978\xcabd
+9\name=\xc67c\xcabd
+10\name=\xc774\xb959
+11\name=\xcc29\xb959
+12\name=\xd68c\xc804
+13\name=\xd68c\xc804 180
+14\name=\xd68c\xc804 f
+15\name=\xd68c\xc804 r
+16\name=HTTP 138.197.192.84
+17\name=FTP debian.org
+18\name=DNS example.com
+19\name=DNS dannagle.com
+
+[foseja]
+name=foseja
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=67 6f 20 78 3d 35 20 79 3d 20 33 20 73 70 65 65 64 20 3d 31 30
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[SDK%20%UBAA8%UB4DC%20%UC9C4%UC785]
+name=SDK \xbaa8\xb4dc \xc9c4\xc785
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=63 6f 6d 6d 61 6e 64
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[up%20100]
+name=up 100
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=75 70 20 31 30 30
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[%UB4A4%UB85C]
+name=\xb4a4\xb85c
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=62 61 63 6b 20 35 30
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[%UC55E%UC73C%UB85C]
+name=\xc55e\xc73c\xb85c
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=66 6f 72 77 61 72 64 20 33 30
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[%UC624%UB978%UCABD]
+name=\xc624\xb978\xcabd
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=72 69 67 68 74 20 35 30
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[%UC67C%UCABD]
+name=\xc67c\xcabd
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=6c 65 66 74 20 35 30
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[%UC774%UB959]
+name=\xc774\xb959
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=74 61 6b 65 6f 66 66
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[%UCC29%UB959]
+name=\xcc29\xb959
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=6c 61 6e 64
+requestPath=
+timestamp="\xc218, 29 9 2021 11:06:00"
+
+[%UD68C%UC804]
+name=\xd68c\xc804
+fromIP=YOU
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString="63 77 20 2d 33 30 30 "
+requestPath=
+timestamp="\xc218, 29 9 2021 11:26:28"
+
+[go%20x]
+name=go x
+fromIP=YOU
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString="67 6f 20 78 20 3d 20 33 30 30 20 79 20 3d 20 31 30 30 20 73 70 65 65 64 20 3d 20 33 30 "
+requestPath=
+timestamp="\xc218, 29 9 2021 11:16:22"
+
+[%UD68C%UC804%20180]
+name=\xd68c\xc804 180
+fromIP=YOU
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString="66 6c 69 70 20 62 "
+requestPath=
+timestamp="\xc218, 29 9 2021 11:40:02"
+
+[%UBCA0%UD130%UB9AC%20%UD655%UC778]
+name=\xbca0\xd130\xb9ac \xd655\xc778
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=62 61 74 74 65 72 79 3f
+requestPath=
+timestamp="\xc218, 29 9 2021 11:29:29"
+
+[%UD68C%UC804%20f]
+name=\xd68c\xc804 f
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=66 6c 69 70 20 66
+requestPath=
+timestamp="\xc218, 29 9 2021 11:42:13"
+
+[%UD68C%UC804%20r]
+name=\xd68c\xc804 r
+fromIP=
+repeat=@Variant(\0\0\0\x87\0\0\0\0)
+toIP=192.168.10.1
+port=8889
+fromPort=8368847
+tcpOrUdp=UDP
+sendResponse=0
+hexString=66 6c 69 70 20 72
+requestPath=
+timestamp="\xc218, 29 9 2021 11:42:22"
